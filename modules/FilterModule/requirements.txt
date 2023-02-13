@@ -1,0 +1,5 @@
+pathlib==1.0.1 
+ruamel-yaml==0.17.16
+azure-iot-device==2.7.1
+azure-ai-anomalydetector==3.0.0b3
+
