@@ -1,4 +1,4 @@
-# Azure IoT Edge sample for Python
+# Azure ML at the edge sample for training data collection and filtering
 
 Created on Oct 2021 
 
