@@ -8,7 +8,7 @@ Updated on Feb 2023
 
 This is a Machine Learning at the edge (MLADE) sample to demonstrate the process of the on-prem data collecting, filtering and uploading to the Azure Cloud for AI model training.
 
-The process of filtering high quality training data is to iteratively live inference the collected data at the edge with the pre-trained AI model, and select the targeted data of the desired confidence level range with its inference outcomes.
+The process of filtering the desired quality training data is to live inference the collected data at the edge with the pre-trained AI model, and select the targeted data if its inference outcomes falling within the desired confidence level range.
 
 ## Application Use Case
 
